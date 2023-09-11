@@ -10,7 +10,7 @@ import 'package:glasses/src/InfoPalette.dart';
 import 'package:glasses/src/ProfileImage.dart';
 import 'package:glasses/src/ProfileTile.dart';
 import 'package:glasses/src/TestimonialTile.dart';
-import 'package:google_fonts/google_fonts.dart';
+import 'package:google_fonts/google_fonts.dart' show GoogleFonts;
 
 void main() {
   runApp(

@@ -13,6 +13,6 @@ jobs:
         with:
           node-version: '16.x' # replace with your desired Node.js version
       - uses: subosito/flutter-action@v2 # replace with the latest version if available
-      - uses: GrLvAzaT/GlassesWeb@v2 # replace with the correct action
+      - uses: GrLvAzaT/GlassesWeb.github.io@v2 # replace with the correct action
         with:
           baseHref: /GlassesWeb/
